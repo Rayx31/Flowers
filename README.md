@@ -1,7 +1,7 @@
 <head>
   <meta charset="UTF-8">
-  <title>Flowers</title>
-  <link rel="stylesheet" href="./style (3).css">
+  <title>flores</title>
+  <link rel="stylesheet" href="./style.css">
 
 </head>
 
